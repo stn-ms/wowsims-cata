@@ -1,0 +1,1 @@
+import"../../../index-41WNUqpB.chunk.js";import{P as s,T as r}from"../../../detailed_results-D0NcuTaI.chunk.js";import{S as t,P as e}from"../../../preset_utils-Dg0Pd4HA.chunk.js";import{A as n}from"../../../sim-Cm3e4fnm.chunk.js";import"../../../inputs-va2r-v9G.chunk.js";const i=new t,o=new e(s.ArmsWarrior,i);i.raid.setPlayer(r.nextEventID(),0,o),new n(document.body,o);
