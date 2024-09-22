@@ -240,7 +240,7 @@ dps_results: {
  }
 }
 dps_results: {
- key: "TestElemental-AllItems-Brawler'sTrophy-71338"
+ key: "TestElemental-AllItems-Brawler'sTrophy-232015"
  value: {
   dps: 30105.59576
   tps: 581.33731
@@ -268,9 +268,9 @@ dps_results: {
  }
 }
 dps_results: {
- key: "TestElemental-AllItems-Coren'sChilledChromiumCoaster-71335"
+ key: "TestElemental-AllItems-Coren'sChilledChromiumCoaster-232012"
  value: {
-  dps: 30458.50529
+  dps: 30422.96428
   tps: 581.13852
  }
 }
@@ -688,6 +688,20 @@ dps_results: {
  }
 }
 dps_results: {
+ key: "TestElemental-AllItems-JawsofDefeat-68926"
+ value: {
+  dps: 31526.73717
+  tps: 591.40147
+ }
+}
+dps_results: {
+ key: "TestElemental-AllItems-JawsofDefeat-69111"
+ value: {
+  dps: 31704.49071
+  tps: 593.19706
+ }
+}
+dps_results: {
  key: "TestElemental-AllItems-JujuofNimbleness-63840"
  value: {
   dps: 30328.71314
@@ -856,10 +870,10 @@ dps_results: {
  }
 }
 dps_results: {
- key: "TestElemental-AllItems-MithrilStopwatch-71337"
+ key: "TestElemental-AllItems-MithrilStopwatch-232013"
  value: {
-  dps: 32210.96317
-  tps: 581.5679
+  dps: 31538.52869
+  tps: 582.16588
  }
 }
 dps_results: {
@@ -898,10 +912,10 @@ dps_results: {
  }
 }
 dps_results: {
- key: "TestElemental-AllItems-PetrifiedPickledEgg-71336"
+ key: "TestElemental-AllItems-PetrifiedPickledEgg-232014"
  value: {
-  dps: 31361.70987
-  tps: 597.99121
+  dps: 31227.74449
+  tps: 596.26568
  }
 }
 dps_results: {
@@ -1017,6 +1031,20 @@ dps_results: {
  }
 }
 dps_results: {
+ key: "TestElemental-AllItems-ScalesofLife-68915"
+ value: {
+  dps: 30105.59576
+  tps: 581.33731
+ }
+}
+dps_results: {
+ key: "TestElemental-AllItems-ScalesofLife-69109"
+ value: {
+  dps: 30105.59576
+  tps: 581.33731
+ }
+}
+dps_results: {
  key: "TestElemental-AllItems-Schnottz'sMedallionofCommand-65805"
  value: {
   dps: 30105.59576
@@ -1108,10 +1136,31 @@ dps_results: {
  }
 }
 dps_results: {
+ key: "TestElemental-AllItems-SpidersilkSpindle-68981"
+ value: {
+  dps: 30428.14406
+  tps: 592.31769
+ }
+}
+dps_results: {
+ key: "TestElemental-AllItems-SpidersilkSpindle-69138"
+ value: {
+  dps: 30608.8098
+  tps: 595.21472
+ }
+}
+dps_results: {
  key: "TestElemental-AllItems-Spiritwalker'sRegalia"
  value: {
   dps: 29413.12564
   tps: 549.36738
+ }
+}
+dps_results: {
+ key: "TestElemental-AllItems-StayofExecution-68996"
+ value: {
+  dps: 30105.59576
+  tps: 581.33731
  }
 }
 dps_results: {
@@ -1313,8 +1362,8 @@ dps_results: {
 dps_results: {
  key: "TestElemental-AllItems-VariablePulseLightningCapacitor-68925"
  value: {
-  dps: 32028.6894
-  tps: 1001.35867
+  dps: 32669.47017
+  tps: 1642.13944
  }
 }
 dps_results: {

@@ -240,7 +240,7 @@ dps_results: {
  }
 }
 dps_results: {
- key: "TestCombat-AllItems-Brawler'sTrophy-71338"
+ key: "TestCombat-AllItems-Brawler'sTrophy-232015"
  value: {
   dps: 27704.91629
   tps: 19670.49057
@@ -268,10 +268,10 @@ dps_results: {
  }
 }
 dps_results: {
- key: "TestCombat-AllItems-Coren'sChilledChromiumCoaster-71335"
+ key: "TestCombat-AllItems-Coren'sChilledChromiumCoaster-232012"
  value: {
-  dps: 29175.54892
-  tps: 20714.63973
+  dps: 29008.57126
+  tps: 20596.0856
  }
 }
 dps_results: {
@@ -695,6 +695,20 @@ dps_results: {
  }
 }
 dps_results: {
+ key: "TestCombat-AllItems-JawsofDefeat-68926"
+ value: {
+  dps: 27704.91629
+  tps: 19670.49057
+ }
+}
+dps_results: {
+ key: "TestCombat-AllItems-JawsofDefeat-69111"
+ value: {
+  dps: 27704.91629
+  tps: 19670.49057
+ }
+}
+dps_results: {
  key: "TestCombat-AllItems-JujuofNimbleness-63840"
  value: {
   dps: 29076.89314
@@ -863,10 +877,10 @@ dps_results: {
  }
 }
 dps_results: {
- key: "TestCombat-AllItems-MithrilStopwatch-71337"
+ key: "TestCombat-AllItems-MithrilStopwatch-232013"
  value: {
-  dps: 28077.35867
-  tps: 19934.92466
+  dps: 28030.65981
+  tps: 19901.76846
  }
 }
 dps_results: {
@@ -905,7 +919,7 @@ dps_results: {
  }
 }
 dps_results: {
- key: "TestCombat-AllItems-PetrifiedPickledEgg-71336"
+ key: "TestCombat-AllItems-PetrifiedPickledEgg-232014"
  value: {
   dps: 27704.91629
   tps: 19670.49057
@@ -1010,6 +1024,20 @@ dps_results: {
  }
 }
 dps_results: {
+ key: "TestCombat-AllItems-ScalesofLife-68915"
+ value: {
+  dps: 27704.91629
+  tps: 19670.49057
+ }
+}
+dps_results: {
+ key: "TestCombat-AllItems-ScalesofLife-69109"
+ value: {
+  dps: 27704.91629
+  tps: 19670.49057
+ }
+}
+dps_results: {
  key: "TestCombat-AllItems-Schnottz'sMedallionofCommand-65805"
  value: {
   dps: 28992.49129
@@ -1098,6 +1126,27 @@ dps_results: {
  value: {
   dps: 28234.74229
   tps: 20046.66703
+ }
+}
+dps_results: {
+ key: "TestCombat-AllItems-SpidersilkSpindle-68981"
+ value: {
+  dps: 28334.7659
+  tps: 20117.68379
+ }
+}
+dps_results: {
+ key: "TestCombat-AllItems-SpidersilkSpindle-69138"
+ value: {
+  dps: 28546.97442
+  tps: 20268.35184
+ }
+}
+dps_results: {
+ key: "TestCombat-AllItems-StayofExecution-68996"
+ value: {
+  dps: 27704.91629
+  tps: 19670.49057
  }
 }
 dps_results: {
@@ -1320,8 +1369,8 @@ dps_results: {
 dps_results: {
  key: "TestCombat-AllItems-VestmentsoftheDarkPhoenix"
  value: {
-  dps: 29473.18487
-  tps: 20925.96126
+  dps: 29229.8946
+  tps: 20753.22517
  }
 }
 dps_results: {
